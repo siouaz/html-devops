@@ -1,4 +1,4 @@
-# Dockerizing a static HTML page using nginx
+# Dockerizing a static HTML page 
 
 To build docker images
 
